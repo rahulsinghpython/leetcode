@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 907,
+            "name": "How",
+            "price": 322.77,
+            "availability": false
+        },
+        {
+            "id": 859,
+            "name": "Should",
+            "price": 112.15,
+            "availability": false
+        },
+        {
+            "id": 89,
+            "name": "Will",
+            "price": 334.58,
+            "availability": true
+        },
+        {
+            "id": 955,
+            "name": "To",
+            "price": 118.7,
+            "availability": true
+        },
+        {
+            "id": 386,
+            "name": "Data",
+            "price": 369.93,
+            "availability": false
+        },
+        {
+            "id": 450,
+            "name": "This",
+            "price": 139.32,
+            "availability": true
+        },
+        {
+            "id": 210,
+            "name": "Drive",
+            "price": 50.73,
+            "availability": true
+        },
+        {
+            "id": 789,
+            "name": "Sell",
+            "price": 42.89,
+            "availability": true
+        },
+        {
+            "id": 424,
+            "name": "Choose",
+            "price": 249.35,
+            "availability": true
+        },
+        {
+            "id": 824,
+            "name": "Former",
+            "price": 37.29,
+            "availability": false
+        }
+    ]
+}
